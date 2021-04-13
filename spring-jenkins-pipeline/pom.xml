@@ -79,7 +79,7 @@
     </profiles>
 
     <properties>
-        <checkstyle.version>8.30</checkstyle.version>
+        <checkstyle.version>3.1.2</checkstyle.version>
         <de.flapdoodle.embed.mongo.version>2.0.0</de.flapdoodle.embed.mongo.version>
     </properties>
 
